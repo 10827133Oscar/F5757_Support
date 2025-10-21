@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "學習 Claude Code Hooks",
+      "description": "了解 PreToolUse 和 PostToolUse 的用法",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "撰寫範例程式",
+      "description": "建立一個簡單的 Todo 應用程式",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "建立一個 Hook",
+      "description": "建立一個追蹤檔案的 Hook",
+      "completed": false
+    }
+  ],
+  "next_id": 4,
+  "last_test": "2025-10-18T12:00:00"
+}

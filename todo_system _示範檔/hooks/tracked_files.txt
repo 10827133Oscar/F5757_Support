@@ -1,0 +1,10 @@
+# 追蹤檔案清單
+# 每行一個檔案路徑，支援相對路徑
+# 以 # 開頭的行會被忽略
+
+main.py
+src/todo_manager.py
+pyproject.toml
+README.md
+.claude/settings.local.json
+tasks.json
